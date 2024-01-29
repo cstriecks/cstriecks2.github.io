@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cstriecks2.github.iocstriecks2.github.io/sitemap.xml
+Sitemap: https://christophstriecks.com/sitemap.xml
